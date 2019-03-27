@@ -1,5 +1,7 @@
 {
   "name": "testgit",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
